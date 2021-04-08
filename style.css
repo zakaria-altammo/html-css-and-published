@@ -26,7 +26,7 @@ table {
     border:coral 1px solid;
     margin-left: 350px;
     margin-right: 350px;
-    padding: 10px 10px 90px 10px;
+    padding: 10px 10px 120px 10px;
 }
 ul {
     text-align: center;
@@ -53,4 +53,8 @@ button {
 }
 .hob {
     background-color: rgb(233, 81, 81);
+}
+.myname {
+    font-size: 20px;
+    color: rgb(166, 172, 172);
 }
